@@ -31,3 +31,9 @@ The Capslock Key is by far the most useless key for me. So i want to change this
 
 ### updating the firmware on osx
 If you are a mac user follow this link: [Update Pok3r RGB Firmware on MacOS](http://sonpham.me/posts/update-pok3r-rgb-firmware-on-macos)
+
+### programming layer 2 for osx
+I want the left `Alt`-key to be the left `CMD`-key, the left `WIN`-key should be the left `Option`-key. On the right side i want the `Alt`-key to be the `CMD`-key and the `CTRL`-key should be the `Option`-key. So this should end up in this layout on layer 2:
+
+![Vortex Pok3r ISO-DE Layout Image](https://github.com/ipfpy/Vortex-Pok3r-ISO-DE-Layout/blob/master/vortex-pok3r-iso-de-keyboard-layer-2-osx-layout.jpg)
+Manually created with the [Keyboard Layout Editor](http://www.keyboard-layout-editor.com)
