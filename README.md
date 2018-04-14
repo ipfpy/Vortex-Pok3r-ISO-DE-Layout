@@ -10,9 +10,10 @@ Manually created with the [Keyboard Layout Editor](http://www.keyboard-layout-ed
 
 ### basic usage
 If you messed up your layer configuration you can press `Fn+R` to reset the actual layer. Be aware that all configuration on this layer will be deleted! The default layer cannot be programmed. But there are layer 2-4 for you to do so. To change the layer press:
-- `Fn+;` on the ISO-DE keyboard for layer 2
-- `Fn+:` on the ISO-DE keyboard for layer 3
-- `Fn+-` on the ISO-DE keyboard for layer 4
+- `Fn+M` on the ISO-DE keyboard for layer 1 (no led under `Spacebar`)
+- `Fn+;` on the ISO-DE keyboard for layer 2 (see blue led under `Spacebar`)
+- `Fn+:` on the ISO-DE keyboard for layer 3 (see red led under `Spacebar`)
+- `Fn+-` on the ISO-DE keyboard for layer 4 (see purple/pink led under `Spacebar`)
 
 ### media-keys
 Since Firmware 1.1.14 the media keys are available with these shortcuts:
@@ -27,3 +28,6 @@ Since Firmware 1.1.14 the media keys are available with these shortcuts:
 
 ### getting rid of capslock key
 The Capslock Key is by far the most useless key for me. So i want to change this key to be the new `Fn`-Key. Thanks to Vortex they added this feature via the DIP-Switch 3 on the backside of the keyboard. Just enable the DIP-Switch and you are fine.
+
+### updating the firmware on osx
+If you are a mac user follow this link: [Update Pok3r RGB Firmware on MacOS](http://sonpham.me/posts/update-pok3r-rgb-firmware-on-macos)
