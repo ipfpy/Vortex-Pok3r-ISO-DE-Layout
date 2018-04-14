@@ -1,0 +1,254 @@
+[
+  {
+    "backcolor": "#000000",
+    "name": "Vortex Pok3r Black ISO-DE Default Layer",
+    "author": "ipfpy",
+    "notes": "## About\nThis is the default ISO-DE layout of the Vortex Pok3r Keyboard incl. Multimedia-Keys. More Layer from my own layout will follow.\n\n### Intention\nMade this for documenting my own changes in later layouts to print them out eventually. Feel free to use it :)",
+    "switchMount": "cherry",
+    "switchBrand": "cherry",
+    "switchType": "MX1A-G1xx"
+  },
+  [
+    {
+      "c": "#5e5e5e",
+      "t": "#a89871",
+      "a": 3
+    },
+    "ESC\n\n\n\n`\n\n\n\n\n\n\n&sim;",
+    {
+      "a": 4,
+      "f2": 5
+    },
+    "!\n1\n\n\nF1",
+    {
+      "f2": 5
+    },
+    "\"\n2\n\n&sup2;\nF2",
+    {
+      "f2": 5
+    },
+    "§\n3\n\n&sup3;\nF3",
+    {
+      "f2": 5
+    },
+    "$\n4\n\n\nF4",
+    {
+      "f2": 5
+    },
+    "%\n5\n\n\nF5",
+    {
+      "f2": 5
+    },
+    "&\n6\n\n\nF6",
+    {
+      "f2": 5
+    },
+    "/\n7\n\n{\nF7",
+    {
+      "f2": 5
+    },
+    "(\n8\n\n[\nF8",
+    {
+      "f2": 5
+    },
+    ")\n9\n\n]\nF9",
+    {
+      "f2": 5
+    },
+    "=\n0\n\n}\nF10",
+    {
+      "f2": 5
+    },
+    "?\nß\n\n\\\nF11",
+    {
+      "fa": [
+        8,
+        8
+      ]
+    },
+    "`\n´\n\n\nF12",
+    {
+      "w": 2
+    },
+    "\n\n\nBACKSPACE\nDel"
+  ],
+  [
+    {
+      "f": 3,
+      "w": 1.5
+    },
+    "\nTAB",
+    {
+      "fa": [
+        6
+      ]
+    },
+    "Q\n\n\n@\n<i class='kb kb-Multimedia-Rewind-Start'></i>",
+    {
+      "fa": [
+        5
+      ]
+    },
+    "W\n\n\n\n<i class='kb kb-Multimedia-Play-Pause'></i>",
+    "E\n\n\n\n<i class='kb kb-Multimedia-FastForward-End'></i>",
+    "R\n\n\n\nReset",
+    "T\n\n\n\n15ms",
+    "Z\n\n\n\nCal",
+    "U\n\n\n\nPgUp",
+    "I\n\n\n\n<i class='kb kb-Multimedia-Up'></i>",
+    "O\n\n\n\nPgDn",
+    "P\n\n\n\nPrtSc",
+    "Ü\n[\n\n\nScrLk",
+    {
+      "fa": [
+        7,
+        7,
+        0,
+        7
+      ]
+    },
+    "*\n+\n\n&sim;\nPause",
+    {
+      "x": 0.25,
+      "a": 5,
+      "f": 3,
+      "w": 1.25,
+      "h": 2,
+      "w2": 1.5,
+      "h2": 1,
+      "x2": -0.25
+    },
+    "\nENTER"
+  ],
+  [
+    {
+      "a": 4,
+      "f": 3,
+      "w": 1.75
+    },
+    "\nCAPSLOCK",
+    {
+      "fa": [
+        5
+      ]
+    },
+    "A",
+    "S\n\n\n\n<i class='kb kb-Multimedia-Volume-Down-1'></i>",
+    "D\n\n\n\n<i class='kb kb-Multimedia-Volume-Up-2'></i>",
+    "F\n\n\n\n<i class='kb kb-Multimedia-Mute-1'></i>",
+    "G\n\n\n\n0,1s",
+    "H\n\n\n\nHome",
+    "J\n\n\n\n<i class='kb kb-Multimedia-Back'></i>",
+    "K\n\n\n\n<i class='kb kb-Multimedia-Down'></i>",
+    "L\n\n\n\n<i class='kb kb-Multimedia-Play'></i>",
+    "Ö\n;\n\n\nIns",
+    "Ä\n'\n\n\nDel",
+    {
+      "fa": [
+        8,
+        6
+      ]
+    },
+    "&lsquo;\n#"
+  ],
+  [
+    {
+      "f": 3,
+      "w": 1.25
+    },
+    "\nSHIFT",
+    {
+      "fa": [
+        6,
+        6,
+        0,
+        6,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "<\n>\n\n|",
+    {
+      "fa": [
+        5
+      ]
+    },
+    "Y\n\n\n\nApp",
+    "X",
+    "C",
+    "V",
+    "B\n\n\n\n0,5s",
+    "N\n\n\n\nEnd",
+    {
+      "fa": [
+        5,
+        0,
+        0,
+        5
+      ]
+    },
+    "M\n\n\n&micro;\nDefault",
+    {
+      "fa": [
+        5,
+        5
+      ]
+    },
+    ";\n,\n\n\nLayer 2",
+    ":\n.\n\n\nLayer 3",
+    {
+      "fa": [
+        4,
+        5
+      ]
+    },
+    "&mdash;\n-\n\n\nLayer 4",
+    {
+      "w": 2.75
+    },
+    "\n\n\nSHIFT"
+  ],
+  [
+    {
+      "f": 3,
+      "w": 1.25
+    },
+    "\nCTRL",
+    {
+      "f": 3,
+      "w": 1.25
+    },
+    "\nWIN",
+    {
+      "f": 3,
+      "w": 1.25
+    },
+    "\nALT",
+    {
+      "t": "#000000",
+      "a": 7,
+      "w": 6.25
+    },
+    "",
+    {
+      "t": "#a89871",
+      "a": 4,
+      "w": 1.25
+    },
+    "\n\n\nALT",
+    {
+      "w": 1.25
+    },
+    "\n\n\nFN",
+    {
+      "w": 1.25
+    },
+    "\n\n\nPN",
+    {
+      "w": 1.25
+    },
+    "\n\n\nCTRL"
+  ]
+]
