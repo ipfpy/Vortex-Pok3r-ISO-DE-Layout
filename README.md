@@ -6,4 +6,4 @@ Made this for documenting my own changes in later layouts to print them out even
 
 ### Default Layout
 
-![Vortex Pok3r ISO-DE Layout Image](https://github.com/ipfpy/Vortex-Pok3r-ISO-DE-Layout/blob/master/vortex-pok3r-iso-de-keyboard-layout.jpg)
+![Vortex Pok3r ISO-DE Layout Image](https://github.com/ipfpy/Vortex-Pok3r-ISO-DE-Layout/blob/master/vortex-pok3r-iso-de-keyboard-default-layout.jpg)
