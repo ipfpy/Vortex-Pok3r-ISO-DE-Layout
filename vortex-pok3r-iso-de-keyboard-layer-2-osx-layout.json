@@ -1,0 +1,264 @@
+[
+  {
+    "backcolor": "#000000",
+    "name": "Vortex Pok3r Black ISO-DE Layer 2 for OSX",
+    "author": "ipfpy",
+    "switchMount": "cherry",
+    "switchBrand": "cherry",
+    "switchType": "MX1A-G1xx"
+  },
+  [
+    {
+      "c": "#5e5e5e",
+      "t": "#a89871",
+      "a": 3
+    },
+    "ESC\n\n\n\n`\n\n\n\n\n\n\n&sim;",
+    {
+      "a": 4,
+      "fa": [
+        0,
+        5,
+        0,
+        0,
+        5
+      ]
+    },
+    "!\n1\n\n\nF1",
+    {
+      "fa": [
+        0,
+        5,
+        0,
+        5,
+        5
+      ]
+    },
+    "\"\n2\n\n&sup2;\nF2",
+    "§\n3\n\n&sup3;\nF3",
+    "$\n4\n\n\nF4",
+    "%\n5\n\n\nF5",
+    "&\n6\n\n\nF6",
+    "/\n7\n\n{\nF7",
+    "(\n8\n\n[\nF8",
+    ")\n9\n\n]\nF9",
+    "=\n0\n\n}\nF10",
+    "?\nß\n\n\\\nF11",
+    {
+      "fa": [
+        8,
+        8
+      ]
+    },
+    "`\n´\n\n\nF12",
+    {
+      "w": 2
+    },
+    "\n\n\nBACKSPACE\nDel"
+  ],
+  [
+    {
+      "f": 3,
+      "w": 1.5
+    },
+    "\nTAB",
+    {
+      "fa": [
+        6
+      ]
+    },
+    "Q\n\n\n@\n<i class='kb kb-Multimedia-Rewind-Start'></i>",
+    {
+      "fa": [
+        5
+      ]
+    },
+    "W\n\n\n\n<i class='kb kb-Multimedia-Play-Pause'></i>",
+    "E\n\n\n\n<i class='kb kb-Multimedia-FastForward-End'></i>",
+    "R\n\n\n\nReset",
+    "T\n\n\n\n15ms",
+    "Z\n\n\n\nCal",
+    "U\n\n\n\nPgUp",
+    "I\n\n\n\n<i class='kb kb-Multimedia-Up'></i>",
+    "O\n\n\n\nPgDn",
+    "P\n\n\n\nPrtSc",
+    "Ü\n[\n\n\nScrLk",
+    {
+      "fa": [
+        7,
+        7,
+        0,
+        7
+      ]
+    },
+    "*\n+\n\n&sim;\nPause",
+    {
+      "x": 0.25,
+      "a": 5,
+      "f": 3,
+      "w": 1.25,
+      "h": 2,
+      "w2": 1.5,
+      "h2": 1,
+      "x2": -0.25
+    },
+    "\nENTER"
+  ],
+  [
+    {
+      "c": "#593232",
+      "a": 4,
+      "fa": [
+        7,
+        4
+      ],
+      "w": 1.75
+    },
+    "\nFn\n\n\nCAPSLOCK",
+    {
+      "c": "#5e5e5e",
+      "fa": [
+        5
+      ]
+    },
+    "A",
+    "S\n\n\n\n<i class='kb kb-Multimedia-Volume-Down-1'></i>",
+    "D\n\n\n\n<i class='kb kb-Multimedia-Volume-Up-2'></i>",
+    {
+      "n": true
+    },
+    "F\n\n\n\n<i class='kb kb-Multimedia-Mute-1'></i>",
+    "G\n\n\n\n0,1s",
+    "H\n\n\n\nHome",
+    {
+      "n": true
+    },
+    "J\n\n\n\n<i class='kb kb-Multimedia-Back'></i>",
+    "K\n\n\n\n<i class='kb kb-Multimedia-Down'></i>",
+    "L\n\n\n\n<i class='kb kb-Multimedia-Play'></i>",
+    "Ö\n;\n\n\nIns",
+    "Ä\n'\n\n\nDel",
+    {
+      "fa": [
+        8,
+        6
+      ]
+    },
+    "&lsquo;\n#"
+  ],
+  [
+    {
+      "f": 3,
+      "w": 1.25
+    },
+    "\nSHIFT",
+    {
+      "fa": [
+        6,
+        6,
+        0,
+        6
+      ]
+    },
+    "<\n>\n\n|",
+    {
+      "fa": [
+        5
+      ]
+    },
+    "Y\n\n\n\nApp",
+    "X",
+    "C",
+    "V",
+    "B\n\n\n\n0,5s",
+    "N\n\n\n\nEnd",
+    {
+      "fa": [
+        5,
+        0,
+        0,
+        5
+      ]
+    },
+    "M\n\n\n&micro;\nDefault",
+    {
+      "fa": [
+        5,
+        5
+      ]
+    },
+    ";\n,\n\n\nLayer 2",
+    ":\n.\n\n\nLayer 3",
+    {
+      "fa": [
+        4,
+        5
+      ]
+    },
+    "&mdash;\n-\n\n\nLayer 4",
+    {
+      "w": 2.75
+    },
+    "\n\n\nSHIFT"
+  ],
+  [
+    {
+      "f": 3,
+      "w": 1.25
+    },
+    "\nCTRL",
+    {
+      "c": "#593232",
+      "f2": 4,
+      "w": 1.25
+    },
+    "ALT\n<i class='mss mss-Unicode-Option-3'></i>",
+    {
+      "fa": [
+        0,
+        0,
+        4,
+        5
+      ],
+      "w": 1.25
+    },
+    "\nCMD\n\n<i class='mss mss-Unicode-Command-3'></i>",
+    {
+      "c": "#5e5e5e",
+      "t": "#000000",
+      "a": 7,
+      "w": 6.25
+    },
+    "",
+    {
+      "c": "#593232",
+      "t": "#a89871",
+      "a": 4,
+      "f2": 5,
+      "w": 1.25
+    },
+    "\n<i class='mss mss-Unicode-Command-3'></i>\n\nCMD",
+    {
+      "c": "#5e5e5e",
+      "f": 3,
+      "w": 1.25
+    },
+    "\n\n\nFN",
+    {
+      "f": 3,
+      "w": 1.25
+    },
+    "\n\n\nPN",
+    {
+      "c": "#593232",
+      "fa": [
+        0,
+        5,
+        5,
+        4
+      ],
+      "w": 1.25
+    },
+    "ALT\n\n\n<i class='mss mss-Unicode-Option-3'></i>"
+  ]
+]
